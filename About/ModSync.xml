@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>5339442c-5c32-44ba-9842-b54300203c79</ID>
   <ModName>Hardworking animals 1.2 (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-

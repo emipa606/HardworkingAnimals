@@ -20,7 +20,7 @@ This mod makes your animals more hardworking: all animals with hauling skill now
 Also hauling skill now requires 9 levels to be learned, instead of vanilla 7. It will take more time to train animals, but will finally repay with increased effectiveness. 
 Having hauling animals is more profitable, and now they can serve as a real work force. 
 
-The mod works on the old saves and doesn&apos;t require new game. There&apos;re no conflicts with other mods that change animals. 
+The mod works on the old saves and doesn't require new game. There're no conflicts with other mods that change animals. 
 If you already have animals with trained hauling, after installing the mod you will need to additionally train them from 7th to 9th hauling level.	
 
 # **My PayPal: paypal.me/Daniledman **
@@ -31,7 +31,7 @@ Special thanks: Hrosts
 _____	
 В настоящий момент животные очень неохотно переносят ресурсы и предметы. 	
 Мод делает ваших животных более трудолюбивыми. Все обученные переноске животные переносят ресурсы и предметы гораздо чаще. 
-Для открытия переноски нужен соответствующий навык &quot;Переноска&quot; 9 уровня, вместо 7. Такая  долгая тренировка животного окупается эффективностью его работы. 
+Для открытия переноски нужен соответствующий навык "Переноска" 9 уровня, вместо 7. Такая  долгая тренировка животного окупается эффективностью его работы. 
 Животноводство становится более выгодным вложением, животных-носильщиков можно использовать, как полноценную рабочую силу.
 
 Мод работает на старых сохранениях и не требует новой игры. Не конфликтует с другими модами на животных.

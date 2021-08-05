@@ -1,4 +1,7 @@
 # Changelog for HardworkingAnimals
 
+1.0.1.0 - Correct mod-name without version
+
+
 1.0.0.0 - First publish
 
