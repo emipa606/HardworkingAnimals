@@ -1,14 +1,14 @@
 # HardworkingAnimals
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Daniledmans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=933324235
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 A16 http://steamcommunity.com/sharedfiles/filedetails/?id=896276462
 
@@ -23,10 +23,6 @@ Having hauling animals is more profitable, and now they can serve as a real work
 The mod works on the old saves and doesn't require new game. There're no conflicts with other mods that change animals. 
 If you already have animals with trained hauling, after installing the mod you will need to additionally train them from 7th to 9th hauling level.	
 
-# **My PayPal: paypal.me/Daniledman **
-
-
-
 Special thanks: Hrosts
 _____	
 В настоящий момент животные очень неохотно переносят ресурсы и предметы. 	
@@ -39,7 +35,7 @@ _____
 
 Благодарности: Hrosts
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
